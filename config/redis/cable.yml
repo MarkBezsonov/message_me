@@ -1,0 +1,8 @@
+production:
+  url: redis://:password@redis-12186.c278.us-east-1-4.ec2.cloud.redislabs.com:12186
+
+development:
+  url: redis://:password@redis-12186.c278.us-east-1-4.ec2.cloud.redislabs.com:12186
+
+test:
+  url: redis://:password@redis-12186.c278.us-east-1-4.ec2.cloud.redislabs.com:12186
